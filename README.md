@@ -1,5 +1,7 @@
 # telegram_pekofy_bot
 This Bot is able to pekofy the last message that was sent into a chat
+(which is a huge problem since it is agnostic to which chat, which is a huge privacy issue)
+HONESTLY, DONT USE THIS BOT WITHOUT FIXING THAT
 
 in order to work it needs https://github.com/python-telegram-bot/python-telegram-bot
 
